@@ -13,3 +13,10 @@
 .dogs p a{
     font-style: italic;
 }
+
+.dogs p a{
+    font-weight: bold;
+}
+a {
+    font-weight: normal;
+}
